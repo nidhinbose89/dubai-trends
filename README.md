@@ -1,6 +1,7 @@
 # To run the application
 
-> pip install -r requireents.txt
+> pip install -r requirements.txt
+
 > ./runserver.py
 
 
